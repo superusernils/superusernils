@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @superusernils
-- 👀 I’m interested in React Development
+👋 Hi, I’m @superusernils
+👀 boomdevelopment.nl  - Soon...
 
